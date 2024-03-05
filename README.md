@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sakthiguhan.netlify.app/](https://sakthiguhan.netlify.app/)
 
-- 💬 Ask me about **react**
+
 
 - 📫 How to reach me **sakthiguhan2001@gmail.com**
 
