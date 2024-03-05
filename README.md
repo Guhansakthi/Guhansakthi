@@ -1,4 +1,4 @@
-[![MasterHead](https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm sakthi guhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
